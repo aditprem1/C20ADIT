@@ -1,1 +1,2 @@
-# C20ADIT
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
